@@ -10,6 +10,7 @@ If an idea feels exciting enough, chances are I'll try building it.
 
 ### Current Focus
 
+- Python
 - AI/ML
 - Quantitative research
 - Business and Finance
