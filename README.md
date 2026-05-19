@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Taran 👋
 
-<!--
-**tarannzaki/tarannzaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS undergrad from India specializing in AI/ML.
 
-Here are some ideas to get you started:
+Right now, I'm focused on learning Python, building strong fundamentals, and exploring areas like AI, quantitative research, finance, and intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in the intersection of technology, mathematics, business, startups, and high-impact problem solving.
+
+If an idea feels exciting enough, chances are I'll try building it.
+
+My interests currently include:
+- Artificial Intelligence
+- Quantitative Research
+- Mathematics
+- Finance & Private Equity
+- Startups & Business
+- Systems Thinking
+- Automation
+- Storytelling & Content Creation
+
+Most of my repositories right now are learning-focused, but the long-term goal is to work on meaningful systems, research-driven ideas, and real-world products.
+
+I'm also deeply interested in self improvement, discipline, and becoming technically strong over time.
+
+---
