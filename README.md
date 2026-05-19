@@ -20,6 +20,6 @@ If an idea feels exciting enough, chances are I'll try building it.
 ### Fun Facts
 
 - Cricket is my favorite sport
-- I play Valorant,badminton and table tennis
+- I play Valorant, badminton and table tennis
 - I love reading books
 - *Limitless* and *The Devil's Advocate* are two of my favorite movies
