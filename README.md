@@ -23,3 +23,24 @@ Most of my repositories right now are learning-focused, but the long-term goal i
 I'm also deeply interested in self improvement, discipline, and becoming technically strong over time.
 
 ---
+
+### Fun Facts
+
+- Cricket is my favourite sport
+- I play Valorant and table tennis
+- I love maths > anything
+- *Limitless* and *The Devil's Advocate* are two of my favorite movies
+- I enjoy storytelling almost as much as coding
+- Currently obsessed with learning how great systems work
+
+---
+
+### Current Focus
+
+- Python
+- AI/ML fundamentals
+- Problem solving
+- Quantitative thinking
+- Building consistently
+
+---
